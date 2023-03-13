@@ -6,8 +6,8 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Greg%20Bien-Aime-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/greg-bien-aime-13839213/)](https://www.linkedin.com/in/greg-bien-aime-13839213/)]
-[![Medium Badge](https://img.shields.io/badge/Greg%20Bien-Aime-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@gregory.bienaime](https://medium.com/@gregory.bienaime)
+[![Linkedin Badge](https://img.shields.io/badge/-Greg%20BienAime-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/greg-bien-aime-13839213/)](https://www.linkedin.com/in/greg-bien-aime-13839213/)
+[![Medium Badge](https://img.shields.io/badge/Greg%20BienAime-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@gregory.bienaime)](https://medium.com/@gregory.bienaime)
 [![Gmail Badge](https://img.shields.io/badge/-gregory.bienaime3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gregory.bienaime3@gmail.com)](mailtogmail.com:gregory.bienaime3@gmail.com)
 
 
